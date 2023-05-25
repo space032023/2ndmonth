@@ -22,7 +22,7 @@
         paddingBottom: '0',
         verticalCentered: true,
         showActiveTooltip: true,
-        navigationTooltips: ['HOME', 'OUR STORY', 'GALLERY', 'GETTING THERE', 'REGISTRY', 'RSVP', 'DAYS LEFT'],
+        navigationTooltips: ['HOME', 'OUR STORY', 'GALLERY', 'MESSAGE', 'TAHANAN'],
         sectionsColor: ['#ffffff']
     });
 
